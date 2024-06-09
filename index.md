@@ -9,4 +9,4 @@ print("Hello baby ;)")
 ```
 - [ ]  learn all prog languages
 - [ ]  To be interviewed by a giant company
-- [ ]  Just chilling
+- [ ]  Just chilling :0
