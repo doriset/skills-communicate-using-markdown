@@ -7,3 +7,6 @@ i just write some headers for learning markdown
 ``` python
 print("Hello baby ;)")
 ```
+- [ ] learn all prog languages
+- [ ] To be interviewed by a giant company
+- [ ] Just chilling
